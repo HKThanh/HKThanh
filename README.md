@@ -92,6 +92,9 @@ I've completed extensive coursework and lab assignments in various areas:
 - **Primary Languages**: Java, JavaScript, TypeScript
 - **Active Since**: 2024
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HKThanh&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HKThanh&layout=compact&theme=vision-friendly-dark)
 ## 📫 How to Reach Me
 
 Feel free to connect with me through:
@@ -99,5 +102,3 @@ Feel free to connect with me through:
 - Email: Available on my GitHub profile
 
 ---
-
-*This profile is actively maintained.*
