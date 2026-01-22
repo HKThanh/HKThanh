@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Huỳnh Kim Thành (HKThanh)
+# About Me - Huỳnh Kim Thành (HKThanh)
 
-I'm a passionate software developer with a strong focus on **full-stack development**, **mobile applications**, and **cloud technologies**.
+👋 Hi! I'm **Huỳnh Kim Thành**, a passionate software developer with a strong focus on full-stack development, mobile applications, and cloud technologies.
 
-## 🎓 About Me
+## 🎓 Background
 
 I'm a student actively working on various software development projects, with a special interest in:
 - **Web Development** (Full-stack applications)
