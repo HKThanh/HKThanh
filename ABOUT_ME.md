@@ -118,5 +118,4 @@ Feel free to connect with me through:
 
 ---
 
-*This profile is actively maintained. Last updated: January 2026*
-
+*This profile is actively maintained.*
